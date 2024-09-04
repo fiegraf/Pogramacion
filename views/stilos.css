@@ -1,0 +1,13 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.title{
+    color:#500337;
+}
+.menu{
+    width: 64px;
+    height: 100px;
+    background-color:rgb(rgba(0, 234, 255, 0.517), rgba(81, 211, 131, 0.579), hwb(163 7% 4%)) ;
+}
